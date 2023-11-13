@@ -21,7 +21,7 @@ My SNS!
 <br>
 <br>
 
-<img src="https://i.pinimg.com/564x/08/1e/76/081e766bbd750366dbac5efdcc1f9ed9.jpg" width="550px">
+<img src="https://i.pinimg.com/564x/08/1e/76/081e766bbd750366dbac5efdcc1f9ed9.jpg" width="500px">
 
 
 
