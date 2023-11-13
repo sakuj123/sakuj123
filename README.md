@@ -23,7 +23,9 @@ My SNS!
 <br>
 <br>
 
+<a href="https://www.youtube.com/watch?v=tT063rFGgpM&list=LL&index=34">
 <img src="https://i.pinimg.com/564x/08/1e/76/081e766bbd750366dbac5efdcc1f9ed9.jpg" width="500px">
+</a>
 
 
 
