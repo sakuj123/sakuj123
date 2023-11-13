@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=CCCCFF&height=200&section=header&text=Welcome_to_my_portfolio!&fontSize=60&fontAlign=50&fontColor=FFFFFF)
 <div align = "center">
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=CCCCFF&height=200&section=header&text=Welcome_to_my_portfolio!&fontSize=60&fontAlign=50&fontColor=FFFFFF)
   
 # Hello! I`m Yeajin Mun!
 
