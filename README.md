@@ -18,6 +18,8 @@ My SNS!
   <img src="https://ww2.freelogovectors.net/wp-content/uploads/2023/03/instagram-logo-1-freelogovectors.net_.png?lossy=1&w=2560&ssl=1" width="55px" height="40px"></a>
 </span>
 
+---
+
 <br>
 <br>
 
